@@ -1,10 +1,10 @@
 {
   "main": {
-    "id": "868d66187356126e",
+    "id": "f2cdf00cd9873195",
     "type": "split",
     "children": [
       {
-        "id": "1d1a8c65b45072e3",
+        "id": "5364cd96bcd7eccf",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -82,6 +82,6 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1d1a8c65b45072e3",
+  "active": "5364cd96bcd7eccf",
   "lastOpenFiles": []
 }
