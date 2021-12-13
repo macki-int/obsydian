@@ -1,7 +1,14 @@
 - flatMap
 - reduce
 - filter()
+- sorted()
 - map() - new stream
+- collect()
+- max()
+- min()
+- average()
+- sum()
+- range()
 
 
 ```java
@@ -32,6 +39,16 @@ List<String> namesList = Arrays.asList("John", "Marry", "George", "Paul", "Alice
  return true;
  })
  .forEach(e -> System.out.println("forEach: " + e));
+ 
+ 
+ 
+ List<String> strings = Arrays.asList("a1", "a2", "b3", "b4", "c5", "c6");
+ strings
+ .stream()
+ .map(string -> string.substring(1))
+ .mapToInt(Integer::parseInt)
+ .average()
+ .ifPresent(System.out::println); // 3.5
  ```
  
  
