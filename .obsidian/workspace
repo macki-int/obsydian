@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Backend/JAVA CORE/Stream/Untitled.md",
-            "mode": "source"
+            "file": "Backend/JAVA CORE/Stream/From collections.md",
+            "mode": "preview"
           }
         }
       },
@@ -21,7 +21,7 @@
           "type": "markdown",
           "state": {
             "file": "Backend/SQL/Query statement order.md",
-            "mode": "source"
+            "mode": "preview"
           }
         }
       }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Backend/JAVA CORE/Stream/Untitled.md",
+                "file": "Backend/JAVA CORE/Stream/From collections.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,10 +99,10 @@
   },
   "active": "03d9b6b1e59d29a5",
   "lastOpenFiles": [
-    "Backend/JAVA CORE/Stream/Untitled.md",
+    "Backend/JAVA CORE/Stream/From collections.md",
+    "Backend/SQL/Query statement order.md",
     "Backend/JAVA CORE/Keywords.md",
     "JAVAFX/method.md",
-    "Backend/SQL/Query statement order.md",
     "Backend/SQL/Keywords.md",
     "Backend/JAVA CORE/Enum/Klasa TransactionType Impl.png",
     "Backend/JAVA CORE/Enum/Użycie operacji DEPOSIT.png",
