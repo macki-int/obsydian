@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "Backend/JAVA CORE/Stream/From collections.md",
-            "mode": "preview"
+            "mode": "source"
           }
         }
       },
@@ -100,6 +100,7 @@
   "active": "03d9b6b1e59d29a5",
   "lastOpenFiles": [
     "Backend/JAVA CORE/Stream/From collections.md",
+    "Backend/JAVA CORE/Stream/Description.md",
     "Backend/SQL/Query statement order.md",
     "Backend/JAVA CORE/Keywords.md",
     "JAVAFX/method.md",
@@ -107,7 +108,6 @@
     "Backend/JAVA CORE/Enum/Klasa TransactionType Impl.png",
     "Backend/JAVA CORE/Enum/Użycie operacji DEPOSIT.png",
     "Backend/JAVA CORE/Enum/Użycie operacji SELL.png",
-    "POWERSHELL/Install new version.md",
-    "Backend/SQL/sql order.png"
+    "POWERSHELL/Install new version.md"
   ]
 }

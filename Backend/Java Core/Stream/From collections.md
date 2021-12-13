@@ -1,6 +1,7 @@
 - flatMap
 - reduce
-- filter
+- filter()
+- map() - new stream
 
 
 ```java
@@ -20,6 +21,17 @@ List<String> namesList = Arrays.asList("John", "Marry", "George", "Paul", "Alice
  .map(String::toUpperCase)
  .sorted()
  .forEach(System.out::println);
+ 
+ 
+ 
+List<String> namesList = Arrays.asList("John", "Marry", "George", "Paul", "Alice", "Ann");
+ namesList
+ .stream()
+ .filter(e -> {
+ System.out.println("filter: " + e);
+ return true;
+ })
+ .forEach(e -> System.out.println("forEach: " + e));
  ```
  
  
