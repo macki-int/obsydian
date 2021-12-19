@@ -6,10 +6,11 @@
       {
         "id": "03d9b6b1e59d29a5",
         "type": "leaf",
+        "dimension": 60.26615969581749,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Backend/JAVA CORE/Stream/From collections.md",
+            "file": "JAVAFX/DB to TableView.md",
             "mode": "source"
           }
         }
@@ -17,6 +18,7 @@
       {
         "id": "dcd36ab47d6f0a96",
         "type": "leaf",
+        "dimension": 39.73384030418251,
         "state": {
           "type": "markdown",
           "state": {
@@ -79,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Backend/JAVA CORE/Stream/From collections.md",
+                "file": "JAVAFX/DB to TableView.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,15 +101,15 @@
   },
   "active": "03d9b6b1e59d29a5",
   "lastOpenFiles": [
+    "JAVAFX/DB to TableView.md",
+    "Backend/XLSX/Read.md",
+    "Backend/CRUD/Example.md",
     "Backend/JAVA CORE/Stream/From collections.md",
     "Backend/JAVA CORE/Stream/Link.md",
     "Backend/JAVA CORE/Stream/Description.md",
     "Backend/SQL/Query statement order.md",
     "Backend/JAVA CORE/Keywords.md",
     "JAVAFX/method.md",
-    "Backend/SQL/Keywords.md",
-    "Backend/JAVA CORE/Enum/Klasa TransactionType Impl.png",
-    "Backend/JAVA CORE/Enum/Użycie operacji DEPOSIT.png",
-    "Backend/JAVA CORE/Enum/Użycie operacji SELL.png"
+    "Backend/SQL/Keywords.md"
   ]
 }
