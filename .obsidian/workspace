@@ -6,24 +6,11 @@
       {
         "id": "03d9b6b1e59d29a5",
         "type": "leaf",
-        "dimension": 60.26615969581749,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "JAVAFX/DB to TableView.md",
+            "file": "POWERSHELL/Install new version.md",
             "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "dcd36ab47d6f0a96",
-        "type": "leaf",
-        "dimension": 39.73384030418251,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Backend/SQL/Query statement order.md",
-            "mode": "preview"
           }
         }
       }
@@ -81,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JAVAFX/DB to TableView.md",
+                "file": "POWERSHELL/Install new version.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,15 +88,15 @@
   },
   "active": "03d9b6b1e59d29a5",
   "lastOpenFiles": [
-    "JAVAFX/DB to TableView.md",
-    "Backend/XLSX/Read.md",
+    "POWERSHELL/Install new version.md",
+    "README.md",
     "Backend/CRUD/Example.md",
-    "Backend/JAVA CORE/Stream/From collections.md",
-    "Backend/JAVA CORE/Stream/Link.md",
-    "Backend/JAVA CORE/Stream/Description.md",
-    "Backend/SQL/Query statement order.md",
-    "Backend/JAVA CORE/Keywords.md",
+    "Backend/SQL/sql order.png",
+    "JAVAFX/DB to TableView.md",
     "JAVAFX/method.md",
-    "Backend/SQL/Keywords.md"
+    "Backend/JAVA CORE/Stream/From collections.md",
+    "Backend/XLSX/Read.md",
+    "Backend/JAVA CORE/Stream/Link.md",
+    "Backend/JAVA CORE/Stream/Description.md"
   ]
 }
