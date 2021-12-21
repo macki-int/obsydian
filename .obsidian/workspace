@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "POWERSHELL/Install new version.md",
+            "file": "Backend/Java Core/Keywords.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "POWERSHELL/Install new version.md",
+                "file": "Backend/Java Core/Keywords.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "03d9b6b1e59d29a5",
   "lastOpenFiles": [
+    "Backend/Java Core/Keywords.md",
+    "INTELLIJ/Shortkey.md",
+    "JAVAFX/DB to TableView.md",
+    "JAVAFX/method.md",
     "POWERSHELL/Install new version.md",
     "README.md",
     "Backend/CRUD/Example.md",
     "Backend/SQL/sql order.png",
-    "JAVAFX/DB to TableView.md",
-    "JAVAFX/method.md",
     "Backend/JAVA CORE/Stream/From collections.md",
-    "Backend/XLSX/Read.md",
-    "Backend/JAVA CORE/Stream/Link.md",
-    "Backend/JAVA CORE/Stream/Description.md"
+    "Backend/XLSX/Read.md"
   ]
 }
