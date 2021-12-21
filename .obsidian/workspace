@@ -7,10 +7,9 @@
         "id": "03d9b6b1e59d29a5",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "image",
           "state": {
-            "file": "JAVAFX/method.md",
-            "mode": "preview"
+            "file": "Backend/Java Core/Enum/Klasa TransactionType Calc.png"
           }
         }
       },
@@ -79,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JAVAFX/method.md",
+                "file": "Backend/Java Core/Enum/Klasa TransactionType Calc.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,15 +98,15 @@
   },
   "active": "03d9b6b1e59d29a5",
   "lastOpenFiles": [
-    "JAVAFX/method.md",
+    "Backend/Java Core/Enum/Klasa TransactionType Calc.png",
+    "Backend/Java Core/Enum/Klasa account.png",
+    "Backend/Java Core/Enum/Enum zamiast If_else.md",
+    "Backend/SQL/sql order.png",
+    "Backend/SQL/Query statement order.md",
     "Backend/SQL/Keywords.md",
+    "JAVAFX/method.md",
     "Backend/JAVA CORE/Enum/Klasa TransactionType Impl.png",
     "Backend/JAVA CORE/Enum/Użycie operacji DEPOSIT.png",
-    "Backend/JAVA CORE/Enum/Użycie operacji SELL.png",
-    "POWERSHELL/Install new version.md",
-    "Backend/SQL/sql order.png",
-    "Pasted image 2011204144409.png.md",
-    "Backend/SQL/Query statement order.md",
-    "Backend/JAVA CORE/Keywords.md"
+    "Backend/JAVA CORE/Enum/Użycie operacji SELL.png"
   ]
 }
