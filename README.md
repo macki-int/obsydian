@@ -1,2 +1,2 @@
 # obsydian
-notes for learn backend 
+notes for learn backend and more
