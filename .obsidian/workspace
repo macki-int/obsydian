@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Backend/Java Core/Keywords.md",
+            "file": "Backend/TEST/Rules.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Backend/Java Core/Keywords.md",
+                "file": "Backend/TEST/Rules.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "03d9b6b1e59d29a5",
   "lastOpenFiles": [
+    "Backend/TEST/Rules.md",
     "Backend/Java Core/Keywords.md",
     "INTELLIJ/Shortkey.md",
     "JAVAFX/DB to TableView.md",
@@ -96,7 +97,6 @@
     "README.md",
     "Backend/CRUD/Example.md",
     "Backend/SQL/sql order.png",
-    "Backend/JAVA CORE/Stream/From collections.md",
-    "Backend/XLSX/Read.md"
+    "Backend/JAVA CORE/Stream/From collections.md"
   ]
 }
