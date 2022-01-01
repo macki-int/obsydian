@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "INTELLIJ/Shortkey.md",
+            "file": "JAVAFX/Dialog.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "INTELLIJ/Shortkey.md",
+                "file": "JAVAFX/Dialog.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "03d9b6b1e59d29a5",
   "lastOpenFiles": [
-    "INTELLIJ/Shortkey.md",
-    "Backend/XLSX/Read.md",
-    "Backend/TEST/Rules.md",
-    "Backend/Java Core/Keywords.md",
-    "JAVAFX/DB to TableView.md",
-    "JAVAFX/method.md",
-    "POWERSHELL/Install new version.md",
-    "README.md",
-    "Backend/CRUD/Example.md",
-    "Backend/SQL/sql order.png"
+    "JAVAFX/Dialog.md",
+    "JAVAFX/Minimal Decorations.png",
+    "JAVAFX/Styling the Dialogs.png",
+    "JAVAFX/Choice Dialog.png",
+    "JAVAFX/Text Input Dialog.png",
+    "JAVAFX/Confirmation Dialog with Custom Actions.png",
+    "JAVAFX/Confirmation Dialog.png",
+    "JAVAFX/SVG.md",
+    "JAVAFX/CanvasVsPane.png",
+    "JAVAFX/Canvas Vs Pane.md"
   ]
 }

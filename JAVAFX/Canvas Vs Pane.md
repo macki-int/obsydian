@@ -1,0 +1,1 @@
+![[CanvasVsPane.png]]
