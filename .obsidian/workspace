@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "03d9b6b1e59d29a5",
+        "id": "fe08d938e1900158",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "JAVAFX/Dialog.md",
+            "file": "Nauka programowania od zera.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JAVAFX/Dialog.md",
+                "file": "Nauka programowania od zera.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,17 +86,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "03d9b6b1e59d29a5",
+  "active": "fe08d938e1900158",
   "lastOpenFiles": [
+    "Nauka programowania od zera.md",
+    "Backend/XLSX/Apache POI.md",
+    "Backend/XLSX/ApachePOIFormatActualAndDisplay.png",
+    "Backend/XLSX/ApachePOIValidate.png",
+    "Backend/XLSX/Write.md",
+    "Backend/XLSX/Read.md",
     "JAVAFX/Dialog.md",
     "JAVAFX/Minimal Decorations.png",
     "JAVAFX/Styling the Dialogs.png",
-    "JAVAFX/Choice Dialog.png",
-    "JAVAFX/Text Input Dialog.png",
-    "JAVAFX/Confirmation Dialog with Custom Actions.png",
-    "JAVAFX/Confirmation Dialog.png",
-    "JAVAFX/SVG.md",
-    "JAVAFX/CanvasVsPane.png",
-    "JAVAFX/Canvas Vs Pane.md"
+    "JAVAFX/Choice Dialog.png"
   ]
 }
