@@ -1,0 +1,99 @@
+{
+  "main": {
+    "id": "e043986fcf5b2310",
+    "type": "split",
+    "children": [
+      {
+        "id": "ce950c585abadd77",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Nauka programowania od zera.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d9aa5b7d3cd57362",
+    "type": "split",
+    "children": [
+      {
+        "id": "167f54d22dcb385d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7167970a9dd93de3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "972f54cdd4e5e82d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ae02264609d6a8b2",
+    "type": "split",
+    "children": [
+      {
+        "id": "2b32382a21000f5d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "580ac9ce006001c6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Nauka programowania od zera.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "ce950c585abadd77",
+  "lastOpenFiles": [
+    "Nauka programowania od zera.md",
+    "Backend/DATA STRUCTURES/Untitled.md",
+    "Backend/Java Core/Stream/Description.md",
+    "POWERSHELL/Install new version.md",
+    "Backend/Java Core/Enum/Enum zamiast If_else.md",
+    "Backend/Java Core/Enum/Klasa account.png"
+  ]
+}

@@ -2,5 +2,7 @@
   "newFileLocation": "current",
   "attachmentFolderPath": "./",
   "alwaysUpdateLinks": true,
-  "promptDelete": false
+  "promptDelete": false,
+  "legacyEditor": false,
+  "livePreview": true
 }
