@@ -212,3 +212,59 @@ dialog.initOwner(parentWindow);
 dialog.initModality(Modality.NONE);
 ```
 The modality must be one of `Modality.NONE`, `Modality.WINDOW_MODAL`, or `Modality.APPLICATION_MODAL`.
+
+
+
+```java
+public class DialogTest extends Application {
+
+    @Override
+    public void start(Stage primaryStage) {
+        Dialog<Results> dialog = new Dialog<>();
+        dialog.setTitle("Dialog Test");
+        dialog.setHeaderText("Please specify…");
+        DialogPane dialogPane = dialog.getDialogPane();
+        dialogPane.getButtonTypes().addAll(ButtonType.OK, ButtonType.CANCEL);
+        TextField textField = new TextField("Name");
+        DatePicker datePicker = new DatePicker(LocalDate.now());
+        ObservableList<Venue> options =
+            FXCollections.observableArrayList(Venue.values());
+        ComboBox<Venue> comboBox = new ComboBox<>(options);
+        comboBox.getSelectionModel().selectFirst();
+        dialogPane.setContent(new VBox(8, textField, datePicker, comboBox));
+        Platform.runLater(textField::requestFocus);
+        dialog.setResultConverter((ButtonType button) -> {
+            if (button == ButtonType.OK) {
+                return new Results(textField.getText(),
+                    datePicker.getValue(), comboBox.getValue());
+            }
+            return null;
+        });
+        Optional<Results> optionalResult = dialog.showAndWait();
+        optionalResult.ifPresent((Results results) -> {
+            System.out.println(
+                results.text + " " + results.date + " " + results.venue);
+        });
+    }
+
+    private static enum Venue {Here, There, Elsewhere}
+
+    private static class Results {
+
+        String text;
+        LocalDate date;
+        Venue venue;
+
+        public Results(String name, LocalDate date, Venue venue) {
+            this.text = name;
+            this.date = date;
+            this.venue = venue;
+        }
+    }
+
+    public static void main(String[] args) {
+        launch(args);
+    }
+}
+```
+![[Test Dialog.png]]

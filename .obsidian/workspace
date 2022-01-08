@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Nauka programowania od zera.md",
+            "file": "JAVAFX/Dialog.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nauka programowania od zera.md",
+                "file": "JAVAFX/Dialog.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,7 @@
   },
   "active": "ce950c585abadd77",
   "lastOpenFiles": [
+    "JAVAFX/Dialog.md",
     "Nauka programowania od zera.md",
     "Backend/DATA STRUCTURES/Untitled.md",
     "Backend/Java Core/Stream/Description.md",
