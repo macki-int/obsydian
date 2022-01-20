@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "JAVAFX/Dialog.md",
+            "file": "Harmonogram.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JAVAFX/Dialog.md",
+                "file": "Harmonogram.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,11 +89,13 @@
   },
   "active": "ce950c585abadd77",
   "lastOpenFiles": [
-    "JAVAFX/Dialog.md",
+    "Harmonogram.md",
+    "CampareTableITJobs.png",
     "Nauka programowania od zera.md",
+    "POWERSHELL/Install new version.md",
+    "JAVAFX/Dialog.md",
     "Backend/DATA STRUCTURES/Untitled.md",
     "Backend/Java Core/Stream/Description.md",
-    "POWERSHELL/Install new version.md",
     "Backend/Java Core/Enum/Enum zamiast If_else.md",
     "Backend/Java Core/Enum/Klasa account.png"
   ]
