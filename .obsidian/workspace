@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "POSTGRESQL/Install.md",
+            "file": "POWERSHELL/Install themes.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "POSTGRESQL/Install.md",
+                "file": "POWERSHELL/Install themes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,8 @@
   },
   "active": "ce950c585abadd77",
   "lastOpenFiles": [
+    "POWERSHELL/Install themes.md",
+    "POWERSHELL/Install new version.md",
     "POSTGRESQL/Install.md",
     "Backend/Java Core/Files Dirs.md",
     "Backend/Java Core/Stream/From collections.md",
@@ -96,8 +98,6 @@
     "Harmonogram.md",
     "CampareTableITJobs.png",
     "Nauka programowania od zera.md",
-    "POWERSHELL/Install new version.md",
-    "JAVAFX/Dialog.md",
-    "Backend/DATA STRUCTURES/Untitled.md"
+    "JAVAFX/Dialog.md"
   ]
 }
