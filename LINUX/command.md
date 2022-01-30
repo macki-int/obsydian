@@ -15,3 +15,5 @@
 cat
 
 
+sudo pkill -u username - logout user
+
