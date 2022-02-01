@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "LINUX/command.md",
+            "file": "DOCKER/uses.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LINUX/command.md",
+                "file": "DOCKER/uses.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,8 @@
   },
   "active": "ce950c585abadd77",
   "lastOpenFiles": [
+    "DOCKER/uses.md",
+    "DOCKER/Commands.md",
     "LINUX/command.md",
     "Backend/DATA STRUCTURES/Simple diagrams of Data Structures.png",
     "Backend/CRUD/Example.md",
@@ -96,8 +98,6 @@
     "Backend/Java Core/Files Dirs.md",
     "Backend/Java Core/Stream/From collections.md",
     "Backend/Java Core/Stream/Description.md",
-    "Harmonogram.md",
-    "CampareTableITJobs.png",
-    "Nauka programowania od zera.md"
+    "Harmonogram.md"
   ]
 }
