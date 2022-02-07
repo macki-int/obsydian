@@ -1,0 +1,96 @@
+{
+  "main": {
+    "id": "269ea3e02706ec10",
+    "type": "split",
+    "children": [
+      {
+        "id": "3c22afbe5089d384",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Backend/JSON/json to pojo.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "90de2df8f33ea65c",
+    "type": "split",
+    "children": [
+      {
+        "id": "3b994d92d491ac04",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "71b563dfc103010d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "f4cf6630bef53039",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "80dbccf14934b0b7",
+    "type": "split",
+    "children": [
+      {
+        "id": "704224f3915158d0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e66bdf5c90335b3a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Backend/JSON/json to pojo.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "3c22afbe5089d384",
+  "lastOpenFiles": [
+    "Backend/JSON/json to pojo.md",
+    "DOCKER/Commands.md",
+    "DOCKER/uses.md"
+  ]
+}
