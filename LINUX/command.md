@@ -17,3 +17,5 @@ cat
 
 sudo pkill -u username - logout user
 
+
+neofetch - show system info
