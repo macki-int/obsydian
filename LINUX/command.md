@@ -15,3 +15,8 @@
 cat
 
 
+sudo pkill -u username - logout user
+
+
+neofetch - show system info
+df -h  system disk info

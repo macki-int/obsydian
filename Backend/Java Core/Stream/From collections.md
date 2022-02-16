@@ -51,4 +51,15 @@ List<String> namesList = Arrays.asList("John", "Marry", "George", "Paul", "Alice
  .ifPresent(System.out::println); // 3.5
  ```
  
- 
+ 10 Collection classes every Java developer should learn 
+ 1. ArrayList 
+ 2. HashMap 
+ 3. LinkedList
+ 4. ConcurrentHashMap
+ 5. HashSet
+ 6. TreeSet
+ 7. TreeMap
+ 8. PriorityQueue
+ 9. BlockingQueue
+ 10. Stack
+https://javarevisited.blogspot.com/2020/04/top-5-courses-to-learn-java-collections-and-streams.html#axzz7IioARGX2

@@ -1,15 +1,19 @@
 {
   "main": {
-    "id": "e043986fcf5b2310",
+    "id": "269ea3e02706ec10",
     "type": "split",
     "children": [
       {
-        "id": "ce950c585abadd77",
+        "id": "3c22afbe5089d384",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
+<<<<<<< HEAD
             "file": "POWERSHELL/Install new version.md",
+=======
+            "file": "JAVAFX/Tips.md",
+>>>>>>> aee8e599d5931be9d7a8ff67ccfac920eabc62f2
             "mode": "source",
             "source": false
           }
@@ -19,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "d9aa5b7d3cd57362",
+    "id": "90de2df8f33ea65c",
     "type": "split",
     "children": [
       {
-        "id": "167f54d22dcb385d",
+        "id": "3b994d92d491ac04",
         "type": "tabs",
         "children": [
           {
-            "id": "7167970a9dd93de3",
+            "id": "71b563dfc103010d",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -35,7 +39,7 @@
             }
           },
           {
-            "id": "972f54cdd4e5e82d",
+            "id": "f4cf6630bef53039",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -56,20 +60,24 @@
     "width": 300
   },
   "right": {
-    "id": "ae02264609d6a8b2",
+    "id": "80dbccf14934b0b7",
     "type": "split",
     "children": [
       {
-        "id": "2b32382a21000f5d",
+        "id": "704224f3915158d0",
         "type": "tabs",
         "children": [
           {
-            "id": "580ac9ce006001c6",
+            "id": "e66bdf5c90335b3a",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "POWERSHELL/Install new version.md",
+=======
+                "file": "JAVAFX/Tips.md",
+>>>>>>> aee8e599d5931be9d7a8ff67ccfac920eabc62f2
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,8 +95,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ce950c585abadd77",
+  "active": "3c22afbe5089d384",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "POWERSHELL/Install new version.md",
     "LINUX/command.md",
     "StudyPlan.png",
@@ -98,5 +107,13 @@
     "Backend/Java Core/Stream/Description.md",
     "Backend/Java Core/Enum/Enum zamiast If_else.md",
     "Backend/Java Core/Enum/Klasa account.png"
+=======
+    "JAVAFX/Tips.md",
+    "JAVAFX/Canvas Vs Pane.md",
+    "LINUX/command.md",
+    "Backend/JSON/json to pojo.md",
+    "DOCKER/Commands.md",
+    "DOCKER/uses.md"
+>>>>>>> aee8e599d5931be9d7a8ff67ccfac920eabc62f2
   ]
 }
