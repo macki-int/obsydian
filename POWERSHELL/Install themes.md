@@ -4,9 +4,13 @@ Install-Module oh-my-posh -Scope CurrentUser
 
 Update-Module oh-my-posh
 
-notepad $PROFILE
+
 
 fonts: https://www.nerdfonts.com/ 
 
 Get-PoshThemes
 Set-PoshPrompt -Theme theme_name  ()
+
+**notepad $PROFILE**
+Import-Module oh-my-posh
+Set-PoshPrompt -Theme marcduiker
