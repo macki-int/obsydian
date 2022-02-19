@@ -1,0 +1,12 @@
+- It was my mistake 
+- my apologize! example: my apologize I made mistakes 
+- My bad! 
+- I owe you an apology 
+- I want to apologize 
+- I want to apologize for(something) 
+- I want to apologize to (someone) 
+
+- more formal expressions used:
+- I sincerly apologize for (something) 
+- I take full responsibility 
+- I'm embarrased about...
