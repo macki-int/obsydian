@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Backend/Java Core/Convert/Double.md",
+            "file": "GIT/Command.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Backend/Java Core/Convert/Double.md",
+                "file": "GIT/Command.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,7 @@
   },
   "active": "3c22afbe5089d384",
   "lastOpenFiles": [
+    "GIT/Command.md",
     "Backend/Java Core/Convert/Double.md",
     "ENGLISH/How to say sorry.md",
     "POWERSHELL/Install new version.md",
@@ -97,7 +98,6 @@
     "JAVAFX/Dialog.md",
     "JAVAFX/SVG.md",
     "LINUX/command.md",
-    "JAVAFX/Tips.md",
-    "Backend/JSON/json to pojo.md"
+    "JAVAFX/Tips.md"
   ]
 }
