@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "GIT/Command.md",
+            "file": "40 Tips that will change your coding skills forever.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GIT/Command.md",
+                "file": "40 Tips that will change your coding skills forever.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "3c22afbe5089d384",
   "lastOpenFiles": [
+    "40 Tips that will change your coding skills forever.md",
+    "45 Coding Tips to improve your coding skills.md",
+    "StudyPlan.png",
+    "PartsOfStudy.png",
+    "README.md",
+    "Nauka programowania od zera.md",
     "GIT/Command.md",
     "Backend/Java Core/Convert/Double.md",
     "ENGLISH/How to say sorry.md",
-    "POWERSHELL/Install new version.md",
-    "JAVAFX/TextFiled only numeric.md",
-    "JAVAFX/Canvas Vs Pane.md",
-    "JAVAFX/Dialog.md",
-    "JAVAFX/SVG.md",
-    "LINUX/command.md",
-    "JAVAFX/Tips.md"
+    "POWERSHELL/Install new version.md"
   ]
 }
