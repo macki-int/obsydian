@@ -20,3 +20,8 @@ sudo pkill -u username - logout user
 
 neofetch - show system info
 df -h  system disk info
+
+  
+**find -name "file_name"** -maxdepth 1 - finding file in the folder
+**find -name "*part_of_file_name*"** -maxdepth 1 - finding file in the folder
+**find -iname "file_name"** -maxdepth 1 - finding file in the folder with Upper and Lower letters
