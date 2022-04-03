@@ -1,4 +1,4 @@
-**uname -a** - print info about system
+6**uname -a** - print info about system
 **sudo  lshw** - print hardware configuration
 **sudo  lshw -short** - print shorter of hardware configuration
 **sudo lshw -html > lshw.html** - to html
