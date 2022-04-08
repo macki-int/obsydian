@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "POSTGRESQL/Config.md",
+            "file": "POSTGRESQL/Tools.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "POSTGRESQL/Config.md",
+                "file": "POSTGRESQL/Tools.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,7 @@
   },
   "active": "3c22afbe5089d384",
   "lastOpenFiles": [
+    "POSTGRESQL/Tools.md",
     "POSTGRESQL/Config.md",
     "POSTGRESQL/Install.md",
     "LINUX/command.md",
@@ -97,7 +98,6 @@
     "StudyPlan.png",
     "PartsOfStudy.png",
     "README.md",
-    "Nauka programowania od zera.md",
-    "GIT/Command.md"
+    "Nauka programowania od zera.md"
   ]
 }
