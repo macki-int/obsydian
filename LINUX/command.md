@@ -14,6 +14,13 @@
 
 cat
 
+free -g
+free -m
+vmstat
+top 
+cat /proc/meminfo
+htop
+
 
 sudo pkill -u username - logout user
 
