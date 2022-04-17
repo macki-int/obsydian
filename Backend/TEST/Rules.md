@@ -1,5 +1,0 @@
- 1. Jeżeli nie wiesz co testować, to myśle że odpowiedz jest w miare prosta - testujesz to co ma funkcja zrobić, piszesz różne scenariusze, np happy path - taki co powinien zadziałać bez problemu no i potem jakieś wydziwiane - jest ten parametr tego niema, co jak coś ma za dużą wartość itp - poprostu zastanów się co się ma stać jak przyjdzie niepoprawna wartość i tak dalej.  
-
-2. Troszkę się sprawa komplikuje jak trzeba przetestować klasę która używa innych klas. Zeby przetestować taki byt trzeba zobaczyć cos na temat "mokowania" i w takich testach sprawdzamy to co ma robić testowana funkcja i jak ma gadać z innymi klasami, np co ma się zadziać jak np serwis zróci wartość X itp.  
-  
-3. Idąc dalej, np żeby twoje testy były w miare małe to funkcje , funkcje w klasach muszą robić konkretne rzeczy "Single resposibility". Np CreateCardService robi za dużo i będzie ci ciężko to potestować, pasowałoby sobie to przemysleć jak to sensowanie obiektowo podzielić.

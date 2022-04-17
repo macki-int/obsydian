@@ -1,1 +1,0 @@
-![[Simple diagrams of Data Structures.png]]
