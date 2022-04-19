@@ -14,3 +14,6 @@
 `git config -l` - config list
 `git config --global credential.helper cache` - local computer remembers the token
 `git config --global --unset credential.helper` - clear the token from the local computer
+
+`git reset --soft HEAD~1` - reset last commit
+`git reset <file>` - reset  add file before commit 
