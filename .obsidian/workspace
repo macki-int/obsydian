@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "INTELLIJ/Shortkey.md",
+            "file": "GIT/Command.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "INTELLIJ/Shortkey.md",
+                "file": "GIT/Command.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,7 @@
   },
   "active": "3c22afbe5089d384",
   "lastOpenFiles": [
+    "GIT/Command.md",
     "INTELLIJ/Shortkey.md",
     "JAVA/Java Core/Optional.md",
     "LINUX/command.md",
@@ -97,7 +98,6 @@
     "POSTGRESQL/Install.md",
     "CampareTableITJobs.png",
     "Harmonogram.md",
-    "Nauka programowania od zera.md",
-    "PartsOfStudy.png"
+    "Nauka programowania od zera.md"
   ]
 }
