@@ -55,3 +55,7 @@ A flag with one dash is a shortcut for the full flag name.
 
 `**docker login**` — Log in to a Docker registry
 `**docker image push my_repo/my_image:my_tag**` — Push an image to a registry
+
+https://www.how2shout.com/linux/how-to-install-sudo-on-debian-or-ubuntu-linux/
+https://www.fosslinux.com/49959/install-docker-on-debian.htm
+systemctl status docker

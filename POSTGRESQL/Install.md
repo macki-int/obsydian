@@ -47,3 +47,14 @@ CREATE DATABASE template1 WITH TEMPLATE = template0 ENCODING = 'UNICODE';
 UPDATE pg_database SET datistemplate = TRUE WHERE datname = 'template1'; - set as actually template
 \c template1 - switch to template1
 VACUUM FREEZE;
+
+https://wiki.debian.org/PostgreSql
+apt install postgresql postgresql-client
+apt search postgresql
+
+pg_lsclusters
+
+psql --version
+```sql
+SELECT version();
+```

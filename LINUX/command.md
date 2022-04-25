@@ -1,4 +1,9 @@
-6**uname -a** - print info about system
+adduser username
+deluser username
+deluser --remove-home username
+
+
+**uname -a** - print info about system
 **sudo  lshw** - print hardware configuration
 **sudo  lshw -short** - print shorter of hardware configuration
 **sudo lshw -html > lshw.html** - to html
@@ -32,3 +37,7 @@ df -h  system disk info
 **find -name "file_name"** -maxdepth 1 - finding file in the folder
 **find -name "*part_of_file_name*"** -maxdepth 1 - finding file in the folder
 **find -iname "file_name"** -maxdepth 1 - finding file in the folder with Upper and Lower letters
+
+apt install sudo
+**usermod -aG sudo username** - add user to sudo group
+**sudo su -** - back to root

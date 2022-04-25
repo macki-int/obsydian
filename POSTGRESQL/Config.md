@@ -1,4 +1,7 @@
-https://dbadmin.net.pl/podstawy-postgresql-dla-administratora/
+- [ ] https://computingforgeeks.com/how-to-install-postgresql-14-on-debian/
+
+
+- [ ] https://dbadmin.net.pl/podstawy-postgresql-dla-administratora/
 
 **postgresql.conf**
 Sprawdź aktualny adres nasłuchu PostgreSQL:
@@ -33,3 +36,8 @@ Pole `METHOD` pozwala wybrać metodę uwierzytelniania
 -   `md5` – pozwala na połączenie po otrzymaniu hasła – haszowane hasła
 -   `password` – pozwala na połączenie po otrzymaniu hasła – NIE UŻYWAĆ! – hasła przesyłane  „plain text”
 -   `ldap` – pobieranie informacji o kontach i uwierzytelnianiu z LDAP
+
+
+systemctl status 'postgresql*'
+
+https://linuxpolska.pl/blog/jak-zabezpieczyc-baze-postgresql-przed-dostepem-z-zewnatrz/
