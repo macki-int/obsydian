@@ -41,3 +41,17 @@ df -h  system disk info
 apt install sudo
 **usermod -aG sudo username** - add user to sudo group
 **sudo su -** - back to root
+
+`ss -nlt | grep LISTEN` - show all listen ports
+
+`journalctl -u service-name` - status service
+`journalctl -u service-name.service -b` status messages for current boot
+
+`systemctl list-sockets --all`  - show all sockets with inactive too 
+
+**show system log**  (https://ackcent.com/basics-linux-events-logging/)
+log folder /var/log/
+`systemctl list-sockets --all`  - show all sockets with inactive too 
+
+`logger -u /run/systemd/journal/syslog`
+tail -f syslog
