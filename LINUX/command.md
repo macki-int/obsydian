@@ -46,6 +46,8 @@ apt install sudo
 
 `journalctl -u service-name` - status service
 `journalctl -u service-name.service -b` status messages for current boot
+`journalctl -xe`
+
 
 `systemctl list-sockets --all`  - show all sockets with inactive too 
 
@@ -55,3 +57,5 @@ log folder /var/log/
 
 `logger -u /run/systemd/journal/syslog`
 tail -f syslog
+
+**cat /etc/passwd** - list all users
