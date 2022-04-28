@@ -40,4 +40,8 @@ Pole `METHOD` pozwala wybrać metodę uwierzytelniania
 
 systemctl status 'postgresql*'
 
+ss -nlt | grep 5432
+
 https://linuxpolska.pl/blog/jak-zabezpieczyc-baze-postgresql-przed-dostepem-z-zewnatrz/
+
+https://www.ibm.com/docs/en/urbancode-deploy/7.1.2?topic=SS4GSP_7.1.2/com.ibm.edt.doc/topics/install_database_postgresql_bds.html
