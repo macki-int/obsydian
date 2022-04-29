@@ -2,6 +2,7 @@ adduser username
 deluser username
 deluser --remove-home username
 
+**passwd username**  - change user password
 
 **uname -a** - print info about system
 **sudo  lshw** - print hardware configuration
