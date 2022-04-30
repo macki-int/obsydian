@@ -60,3 +60,13 @@ log folder /var/log/
 tail -f syslog
 
 **cat /etc/passwd** - list all users
+
+
+**passwd -l username** lock user passwd
+**passwd -u username** unlock user passwd
+
+passwd --status root - Check if the user account is locked.
+
+grep ^root /etc/passwd  - check for non-interactive shell
+
+ps -xa  list of running processes
