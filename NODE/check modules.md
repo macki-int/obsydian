@@ -10,4 +10,7 @@
 
 `npm view nameModule version`
 
-`npm outdated` 
+`npm outdated` ```javascript
+
+`node -v`
+`npm -v`
