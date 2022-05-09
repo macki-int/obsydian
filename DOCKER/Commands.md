@@ -10,7 +10,8 @@ A flag with one dash is a shortcut for the full flag name.
  
 `docker ps -a` - prints a list of running containers
 `docker logs --tail 100 <container ID>` - the latest 100 logs for your container
-	
+`docker images` - list of images
+
 `docker container my_command`
 `create` — Create a container from an image
 `start` — Start an existing container
