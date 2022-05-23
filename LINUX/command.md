@@ -26,7 +26,7 @@ vmstat
 top 
 cat /proc/meminfo
 htop
-
+ ip -adrr - aho net address
 
 sudo pkill -u username - logout user
 

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "JAVA/Interview questions.md",
+            "file": "DOCKER/Useful.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JAVA/Interview questions.md",
+                "file": "DOCKER/Useful.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "ecb581c4cd608818",
   "lastOpenFiles": [
-    "JAVA/Interview questions.md",
-    "JAVA/XLSX/Apache POI.md",
+    "DOCKER/Useful.md",
+    "DOCKER/Build and Dockerfile.md",
+    "POSTGRESQL/Psql.md",
+    "LINUX/command.md",
+    "POSTGRESQL/Install.md",
+    "POSTGRESQL/Config.md",
     "App.md",
-    "Nauka programowania od zera.md",
-    "POWERSHELL/Show command history.md",
-    "SPRING/unclassifited.md",
-    "JAVA/Patterns.md",
-    "SPRING/Annotations.md",
-    "SPRING/TEST/Untitled.md",
-    "DOCKER/Commands.md"
+    "StudyPlan.png",
+    "README.md",
+    "PartsOfStudy.png"
   ]
 }

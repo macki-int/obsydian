@@ -1,0 +1,3 @@
+```go
+mvn package -DskipTests
+```

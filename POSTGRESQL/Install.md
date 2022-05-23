@@ -16,16 +16,7 @@ psql
 
 create database demodb
 psql demodb
-`\q` - quit
 
-for connection info : `\conninfo`
-for password : `\password` 
-for roles : `\du` 
-for database : `\l`
-for relation : `\d`
-for table : `\dt`
-```sql
-\c demo_datavase user_name
 ```
 
 CREATE DATABASE hr 
