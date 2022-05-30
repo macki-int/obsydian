@@ -90,14 +90,14 @@
   "active": "ecb581c4cd608818",
   "lastOpenFiles": [
     "DOCKER/Useful.md",
-    "DOCKER/Build and Dockerfile.md",
+    "MAVEN/Build project.md",
+    "POSTGRESQL/Backup Restore.md",
+    "VUE/Useful.md",
+    "POSTGRESQL/Core.md",
     "POSTGRESQL/Psql.md",
-    "LINUX/command.md",
-    "POSTGRESQL/Install.md",
-    "POSTGRESQL/Config.md",
-    "App.md",
-    "StudyPlan.png",
-    "README.md",
-    "PartsOfStudy.png"
+    "DOCKER/Copy image between servers.md",
+    "DOCKER/Build and Dockerfile.md",
+    "DOCKER/Commands.md",
+    "LINUX/command.md"
   ]
 }
