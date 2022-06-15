@@ -1,0 +1,186 @@
+-   [ ] **Czym jest referencja do obiektu klasy w Javie?**
+-   [ ] **Czym jest argument metody w Javie?**
+-   [ ] **Jakie znasz typy proste w Javie?**
+-   [ ] **Jakie znasz typy złożone w Javie?**
+-   [ ] **Typ złożony (obiektowy) vs prosty w Javie?**
+-   [ ] **Tablice vs Kolekcje (czyli tablica [] vs Java Collections API)**
+-   [ ] **Jakie są kolekcje w Javie i jakie są ich metody?**
+-   [ ] **Czym jest Klasa w Javie?**
+-   [ ] **Czym są zmienne klasy (tzw. pola klasy)?**
+-   [ ] **Czym jest stała w Javie?**
+-   [ ] **Czym jest stała statyczna?**
+-   [ ] **Obiekt w Javie**
+-   [ ] **Dziedziczenie klas**
+-   [ ] **Pętla for**
+-   [ ] **Pętla for each**
+-   [ ] **Pętla while**
+-   [ ] **Konstrukcja If**
+-   [ ] **Konstrukcja if else**
+-   [ ] **Jakie są operatory matematyczne w Javie?**
+-   [ ] **Jakie są operatory logiczne w Javie?**
+-   [ ] **Typy BigInteger i BigDecimal**
+-   [ ] **Co powoduje słówko static w Javie?**
+-   [ ] **Po co jest słówko return w Javie?**
+-   [ ] **Czym są metody equals i hashCode i do czego służą?**
+-   [ ] **Jaka jest różnica pomiędzy equals() a „==”?**
+-   [ ] **Czym jest klasa Object w Javie?**
+-   [ ] **Czym jest metoda toString()?**
+-   [ ] **Konstrukcja switch**
+-   [ ] **Czym jest void w Javie?**
+-   [ ] **Jak działają Interfejsy w Javie?**
+-   [ ] **Enumy w Javie czym są / do czego służą?**
+-   [ ] **Zakresy widoczności w Javie**
+-   [ ] **Czym jest zmienna?**
+-   [ ] **Czym jest metoda main w Javie?**
+-   [ ] **Czym są metody w Javie?**
+-   [ ] **Czym jest Konstruktor w Javie?**
+-   [ ] **Definicja klasy vs Deklaracja obiektu klasy**
+-   [ ] **Zakres widoczności zmiennych?**
+-   [ ] **Czym jest final w Javie? W jakich miejscach można go użyć?**
+-   [ ] **String vs String Builder vs StringBuffer**
+-   [ ] **Czym jest null w Javie?**
+-   [ ] **Czym jest wyjątek w Javie?**
+-   [ ] **Konstrukcja try, catch, finally, po co to w Javie?**
+-   [ ] **Klasa wewnętrzna co to jest?**
+-   [ ] **Klasy abstrakcyjne co to jest?**
+-   [ ] **Co to jest Lambda w Javie?**
+-   [ ] **Autoboxing and Unboxing
+-   [ ] Czym jest Czysty kod?
+-   [ ] Czym jest Code Review?
+-   [ ] Jakie zasady Czystego kodu znasz?
+-   [ ] Po co są wzorce projektowe?
+-   [ ] Jakie mamy rodzaje wzorców?
+-   [ ] Jakie znasz wzorce? I co robią?
+-   [ ] Co robi w. Singleton?
+-   [ ] Co robi w. Builder?
+-   [ ] Co robi w. Fabryka?
+-   [ ] Co robi w. Iterator?
+-   [ ] Co robi w. Fasada?
+-   [ ] Co robi w. Metoda wytwórcza?
+-   [ ] Co wiesz o SOLID? Rozwiń skrót i opisz zasady.
+-   [ ] Co wiesz o GRASP? Rozwiń skrót i opisz
+-   [ ] Co daje stosowanie niezmienności?
+-   [ ] cechy XMLa
+-   [ ] cechy JSONa
+-   [ ] cechy YAMLa
+-   [ ] Co to jest stos w Javie?
+-   [ ] Czym jest RAM?
+-   [ ] Jak działa Garbage Collector w Javie?
+-   [ ] Czym są pule wątków?
+-   [ ] Czym jest Executor w Javie?
+-   [ ] Czym jest Wstrzykiwanie zależności?
+-   [ ] Metody equals i hashcode podaj ich kontrakt w Javie?
+-   [ ] Co znaczy, że masz StackOverflowException?
+-   [ ] Wymień Interfejsy funkcyjne Javy 8
+-   [ ] Jak działają poszczególne kolekcje w Javie? Np. ArrayList vs LinkedList?
+-   [ ] Executory
+-   [ ] Wątek w Javie
+-   [ ] Proces w Javie
+-   [ ] Czym jest JVM
+-   [ ] Czym jest HEAP
+-   [ ] Jak wygląda model pamięci w Javie
+-   [ ] Czym jest REST?
+-   [ ] Czym jest HTTP?
+-   [ ] Jakie znasz kody HTTP?
+-   [ ] Co są 4 dojrzałości REST'a?
+-   [ ] Czym są nagłówki HTTP?
+-   [ ] Wyjątki w Javie (checked vs unchecked)
+-   [ ] Jaki typ najlepszy do dokładnego obliczania pieniędzy w Javie?
+-   [ ] Jak działa try with resources
+-   [ ] Co to jest Race Condition?
+-   [ ] Czym i jak podejrzeć stan JVM'a w Twojej aplikacji?
+-   [ ] Czy znasz pakiet java.util.concurrency?
+-   [ ] Co wiesz o wielowątkowości?
+-   [ ] Czym jest CompletableFuture w Javie?
+-   [ ] Dlaczego warto zastępować dziedziczenie kompozycją?
+-   [ ] Po co stosuje się enumy?
+-   [ ] Czym jest Lambda w Javie?
+-   [ ] Czym jest klasa anonimowa w Javie?
+-   [ ] Jakie znasz standardowe interfejsy funkcyjne w Javie?
+-   [ ] Czym jest Stream?
+-   [ ] Kiedy warto, a kiedy nie warto stosować Streamy w Javie?
+-   [ ] Czy zwracanie null jest dobre?
+-   [ ] Powiedz jak wygląda hierarchia wyjątków w Javie
+-   [ ] Czym jest wyjątek checked?
+-   [ ] Czym jest wyjątek unchecked?
+-   [ ] Jakie wyjątki wykorzystujesz i do czego?
+-   [ ] Jaki typ wykorzystasz do przetrzymywania precyzyjnych wyników po przecinku? float, dobule czy BigDecimal?
+-   [ ] Po co są typy "Atomic" w Javie?
+-   [ ] ArrayList vs LinkedList?
+-   [ ] HashMap vs HashSet?
+-   [ ] Jaką złożoność obliczeniową mają poszczególne operacje w konkretnych kolekcjach w Javie? Jaką złożoność pamięciową mają te operacje? [Ściąga](https://www.bigocheatsheet.com/)
+-   [ ] Czym jest CircuitBreaker?
+-   [ ] Czym jest timeout w javie?
+-   [ ] Czym jest connectionTimeout w kliencie HTTP?
+-   [ ] Czym jest socketTimeout w klientach HTTP?
+-   [ ] Czym jest fallback w klientach HTTP?
+-   [ ] Czym jest Servlet?
+-   [ ] Czym jest Endpoint?
+-   [ ] Czym jest idempotentność? Jak to się ma do czasowników HTTP? Czy GET jest idempotentny? Czy POST jest idempotentny? itd.
+-   [ ] Czym jest header Accept w HTTP?
+-   [ ] Czym jest header Content-Type w HTTP?
+-   [ ] Error a Exception w Javie
+-   [ ] konstruktor do czego sluzy
+-   [ ] czym jest enkapsulacja
+-   [ ] jakie mamy modyfikatory dostepu
+-   [ ] roznice miedzy nimi private, public, protected.
+-   [ ] jakie klasy rozszerzaja Collections
+-   [ ] Listy, Mapy i Sety,
+-   [ ] co do czego, w jakim przykladzie bym tego **uzyl**?
+-   [ ] Czym sie rozni ArrayList od LinkedList,
+-   [ ] jesli kandydat nie odpowie na to pytanie…
+-   [ ] to go to troche dyskwalifikuję
+-   [ ] Mapy
+-   [ ] Stream Api
+-   [ ] optionale
+-   [ ] interfejsy funkcyjne.
+-   [ ] tablice vs kolekcje,
+-   [ ] fory vs streamy,
+-   [ ] arraylist,
+-   [ ] sety
+-   [ ] na pewno **czysty kod**
+-   [ ] podstawy gita
+-   [ ] kolekcje
+-   [ ] wielowątkowość
+-   [ ] dziedziczenie
+-   [ ] interfejsy
+-   [ ] typy generyczne
+-   [ ] czym jest REST i jakie są kody
+-   [ ] wzorzec MVC wiedziec co to jest w ogole,
+-   [ ] wiedziec co to jest Dependency Injection,
+-   [ ] rozumieć SOLID'a,
+-   [ ] kontrakt equals i hashcode na pamięć.
+-   [ ] Zrozumienie czym jest mapa,
+-   [ ] Co daje linked lista?
+-   [ ] Na czym polega Hashowanie?
+-   [ ] Co to HashMapa?
+-   [ ] Co to Set?
+-   [ ] Kontenery Dockerowe, ich wydajności
+-   [ ] Na przykład z SQL:
+    -   [ ] podawali mi 3 tabele z jakimiś kolumnami i pytali jakbyś wyciągnął
+    -   [ ] Musiałem pisać na czacie zapytanie SQL.
+    -   [ ] Takie największe zapytanie były to jakieś 4 joiny.
+-   [ ] Pytania o zagadnienia: triggery, indeksy, relacje
+-   [ ] Hibernate
+-   [ ] JDBC
+-   [ ] Na kazdej rozmowie bylo porównywanie equals vs == do jakich przypadkow nawiazują.
+-   [ ] Podanie przykladu jak bym uzyl **instanceof**, kiedy sie uzywa.
+-   [ ] Definicje **hashcode** jak to dziala, do czego bym to uzyl.
+-   [ ] testy jednostkowe/integracyjne - Mockito, Junit5
+-   [ ] algorytmy
+-   [ ] zlozonosci
+-   [ ] struktury danych
+-   [ ] HTTP
+-   [ ] sieciowe
+-   [ ] Spring, JPA, Maven.
+-   [ ] SOLIDNE PODSTAWY JAVY, SQL, HTTP
+-   [ ] Sama Java, głównie Kolekcje, Big O notation,
+-   [ ] Jak działają pod spodem konkretne kolekcje
+-   [ ] jak działa garbage collector
+-   [ ] czy znam jakieś inne rodzaje garbage collectorów,
+-   [ ] Kiedy powinno się używać setów, a kiedy list.
+-   [ ] Co wiem o wielowątkowości.
+-   [ ] Czy znam jakieś wzorce projektowe.
+-   [ ] Jakie znam wyjątki i czy znam ich rodzaje.
+-   [ ] Pytali również jakie są modele pamięci Javy, co to są buckety.
+-   [ ] Głównie, jak co działa i czemu to działa w taki sposób.
