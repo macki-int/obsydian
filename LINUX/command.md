@@ -1,6 +1,7 @@
 adduser username
 deluser username
 deluser --remove-home username
+usermod [option] username - modifying user's account (-L / -U lock / unlock)
 
 **passwd username**  - change user password
 
