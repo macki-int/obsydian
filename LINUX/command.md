@@ -71,3 +71,5 @@ passwd --status root - Check if the user account is locked.
 grep ^root /etc/passwd  - check for non-interactive shell
 
 ps -xa  list of running processes
+
+**chown -R {user:grupa} {katalog}** -  recursive change of owner
