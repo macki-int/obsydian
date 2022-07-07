@@ -70,4 +70,6 @@
 -   **head** – View the first line of the text file.
 -   **tail** – View the last line of the file.
 -   **string** – string is used to text that’s embedded in a binary file.
--   **od** – View the data in octal.
+-   **od** – View the data in octal
+
+`column -tns: /etc/passwd` - goodlooking password file 
