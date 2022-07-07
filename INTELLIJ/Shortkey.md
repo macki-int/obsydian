@@ -25,7 +25,10 @@ Alt+Shift+Insert - toggle column selection mode
 Alt+J - add selection for next occurrence
 
 Ctrl+P - parameter info
+``` 
 Ctrl+Q - quick documentation
+```
+
 Ctrl+Shift+Up - move statement up
 Ctrl+Shift+Down - move statement down
 Ctrl+/ - comment line
