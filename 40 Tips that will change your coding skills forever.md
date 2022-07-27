@@ -5,7 +5,7 @@
 5.  [**KISS**](https://en.wikipedia.org/wiki/KISS_principle): “Keep it simple, stupid” or “keep it stupid simple” is a design principle that states that most systems work best if they are kept simple rather than made complicated. And while this is logical, it is sometimes difficult to achieve.
 6.  Don’t overthink it.
 7.  If you’re with a problem or a bug too long, walk away, and come back to it later. Often, the best solutions to the problems occur to me on the way from my office to the bathroom. Taking a walk away is also advisable when you are angry with a client or with a coworker, especially if you want to keep your job.
-8.  Learn to write useful tests and learn to do [**TDD**](https://en.wikipedia.org/wiki/Test-driven_development). TDD is a software development process that relies on the repetition of a very short development cycle: Write a test, run all tests and see if the new one fails, write some code, run tests, refactor code, repeat.
+8.  Learn to write [[DOCKER/Useful|useful]] tests and learn to do [**TDD**](https://en.wikipedia.org/wiki/Test-driven_development). TDD is a software development process that relies on the repetition of a very short development cycle: Write a test, run all tests and see if the new one fails, write some code, run tests, refactor code, repeat.
 9.  Solve the problem first and then write the code. Don’t start coding without knowing what to do.
 10.  Don’t memorize code, instead understand the logic.
 11.  If you copy and paste a [stack overflow](https://stackoverflow.com/) solution, make sure you understand it. Learn to use Stack Overflow in a good way.
