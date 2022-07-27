@@ -4,7 +4,9 @@ docker stats - show docker status
 
 docker run --rm -it --network host <image_name> - *ustawienie loopback on host address*
 
-docker build . -t <image_name>:<tag>
-docker run -d --rm -it --network host <image_name>:<tag>
+docker build . -t  <image_name>:<tag_name>
+docker run -d --rm -it --network host <image_name>:<tag_name>
+
+docker update --restart=always <container_id>
 
 GET /users?sort_by=asc(email)
