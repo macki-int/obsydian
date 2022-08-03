@@ -6,6 +6,7 @@ function get-gitstatus { git status }
 Set-Alias -Name gs -Value get-gitstatus
 ```
 
+**notepad $PROFILE**
 
 ```powershell
 
