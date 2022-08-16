@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "DOCKER/Useful.md",
+            "file": "JAVA/CRUD/Example.md",
             "mode": "source",
             "source": false
           }
@@ -53,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 205
   },
   "right": {
     "id": "331c15189c6e2b25",
@@ -69,14 +69,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DOCKER/Useful.md",
+                "file": "JAVA/CRUD/Example.md",
                 "collapseAll": false,
-                "extraContext": false,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           }
@@ -84,20 +84,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 265.5
   },
   "active": "ecb581c4cd608818",
   "lastOpenFiles": [
-    "DOCKER/Useful.md",
-    "MAVEN/Build project.md",
-    "POSTGRESQL/Backup Restore.md",
-    "VUE/Useful.md",
-    "POSTGRESQL/Core.md",
-    "POSTGRESQL/Psql.md",
-    "DOCKER/Copy image between servers.md",
-    "DOCKER/Build and Dockerfile.md",
-    "DOCKER/Commands.md",
-    "LINUX/command.md"
+    "JAVA/DATA STRUCTURES/Simple diagrams of Data Structures.png",
+    "JAVA/DATA STRUCTURES/Untitled.md",
+    "JAVA/Java Core/Files Dirs.md",
+    "JAVA/TEST/JUnit.md",
+    "VIRTUALIZATION/Windows.md",
+    "SPRING/SPRING SECURITY/JWT.md",
+    "POWERSHELL/Install themes.md",
+    "POWERSHELL/Aliases.md",
+    "LINUX/command.md",
+    "POWERSHELL/Set Date and time.md"
   ]
 }
