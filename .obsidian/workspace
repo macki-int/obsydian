@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "JAVA/CRUD/Example.md",
+            "file": "JAVA/TEST/Mockito.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JAVA/CRUD/Example.md",
+                "file": "JAVA/TEST/Mockito.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "ecb581c4cd608818",
   "lastOpenFiles": [
+    "JAVA/JSON/json to pojo.md",
+    "JAVA/TEST/Mockito.md",
+    "JAVA/TEST/JUnit.md",
+    "JAVA/TEST/Rules.md",
+    "JAVA/CRUD/Example.md",
     "JAVA/DATA STRUCTURES/Simple diagrams of Data Structures.png",
     "JAVA/DATA STRUCTURES/Untitled.md",
     "JAVA/Java Core/Files Dirs.md",
-    "JAVA/TEST/JUnit.md",
     "VIRTUALIZATION/Windows.md",
-    "SPRING/SPRING SECURITY/JWT.md",
-    "POWERSHELL/Install themes.md",
-    "POWERSHELL/Aliases.md",
-    "LINUX/command.md",
-    "POWERSHELL/Set Date and time.md"
+    "SPRING/SPRING SECURITY/JWT.md"
   ]
 }
