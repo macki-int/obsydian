@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "ecb581c4cd608818",
+        "id": "5b216d1132878691",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "JAVA/TEST/Mockito.md",
+            "file": "LINUX/Crone.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JAVA/TEST/Mockito.md",
+                "file": "LINUX/Crone.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -86,17 +86,17 @@
     "direction": "horizontal",
     "width": 265.5
   },
-  "active": "ecb581c4cd608818",
+  "active": "5b216d1132878691",
   "lastOpenFiles": [
-    "JAVA/JSON/json to pojo.md",
-    "JAVA/TEST/Mockito.md",
-    "JAVA/TEST/JUnit.md",
-    "JAVA/TEST/Rules.md",
-    "JAVA/CRUD/Example.md",
-    "JAVA/DATA STRUCTURES/Simple diagrams of Data Structures.png",
-    "JAVA/DATA STRUCTURES/Untitled.md",
-    "JAVA/Java Core/Files Dirs.md",
-    "VIRTUALIZATION/Windows.md",
-    "SPRING/SPRING SECURITY/JWT.md"
+    "LINUX/Command.md",
+    "LINUX/Bash.md",
+    "LINUX/Crone.md",
+    "LINUX/Remove kdevtmpfsi.md",
+    "POWERSHELL/Show command history.md",
+    "POWERSHELL/Aliases.md",
+    "POWERSHELL/Install new version.md",
+    "POWERSHELL/Install themes.md",
+    "POWERSHELL/Set Date and time.md",
+    "POWERSHELL/Upload and Download file.md"
   ]
 }
