@@ -66,10 +66,16 @@ tail -f syslog
 **passwd -l username** lock user passwd
 **passwd -u username** unlock user passwd
 
-passwd --status root - Check if the user account is locked.
+**passwd --status root**- Check if the user account is locked.
 
 grep ^root /etc/passwd  - check for non-interactive shell
 
 ps -xa  list of running processes
 
-**chown -R {user:grupa} {katalog}** -  recursive change of owner
+**chown -R {user:grupe} {directory}** -  recursive change of owner
+
+**chmod 777 foldername** will give read, write, and execute permissions for everyone.
+**chmod 700 foldername** will give read, write, and execute permissions for the user only.
+**chmod 327 foldername** will give write and execute (3) permission for the user, w (2) for the group, and read, write, and execute for the users.
+
+https://chmodcommand.com
