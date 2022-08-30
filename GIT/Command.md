@@ -6,6 +6,7 @@
 `git branch -r` - list both of branches
 `git branch -r` - list of remote branches
 `git log --branches --not --remotes` - all branches not pushed yet
+`git branch -r --contains $commit` - list remote branches that contain $commit
 
 `git cherry -v`  - list of commits not pushed yet
 
