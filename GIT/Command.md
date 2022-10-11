@@ -10,9 +10,14 @@
 
 `git cherry -v`  - list of commits not pushed yet
 
+in project dir (local config)
+`git config user.name`
+`git config user.email`
+`git config -l` - local config list
+
 `git config --global user.name`
 `git config --global user.email`
-`git config -l` - config list
+`git config --global -l` - global config list
 `git config --global credential.helper cache` - local computer remembers the token
 `git config --global --unset credential.helper` - clear the token from the local computer
 
