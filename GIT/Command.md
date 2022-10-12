@@ -3,8 +3,9 @@
 `git log origin/main..HEAD` - log of locale and remote commits 
 `git diff origin/main..HEAD` - diff of locale and remote commits 
 
-`git branch -r` - list both of branches
 `git branch -r` - list of remote branches
+`git branch` - list both of branches
+
 `git log --branches --not --remotes` - all branches not pushed yet
 `git branch -r --contains $commit` - list remote branches that contain $commit
 
@@ -32,4 +33,4 @@ If you want to set all of your branches to automatically use this remote repo wh
 to the push: 
 `git push --all --set-upstream origin`
 
-`git reflog` 
+`git reflog`   -show all commits in all branches
