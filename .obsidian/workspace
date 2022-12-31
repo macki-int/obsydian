@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "5b216d1132878691",
+        "id": "9ef202d1b0a1a411",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "LINUX/Crone.md",
+            "file": "POWERSHELL/Install new version.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LINUX/Crone.md",
+                "file": "POWERSHELL/Install new version.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -86,17 +86,17 @@
     "direction": "horizontal",
     "width": 265.5
   },
-  "active": "5b216d1132878691",
+  "active": "9ef202d1b0a1a411",
   "lastOpenFiles": [
-    "LINUX/Command.md",
-    "LINUX/Bash.md",
-    "LINUX/Crone.md",
-    "LINUX/Remove kdevtmpfsi.md",
-    "POWERSHELL/Show command history.md",
+    "GIT/Command.md",
     "POWERSHELL/Aliases.md",
-    "POWERSHELL/Install new version.md",
-    "POWERSHELL/Install themes.md",
-    "POWERSHELL/Set Date and time.md",
-    "POWERSHELL/Upload and Download file.md"
+    "POSTGRESQL/Psql.md",
+    "JENKINS/Raspberry Pi.md",
+    "GIT/Remove last commit.md",
+    "GIT/Get The Current Branch.md",
+    "DOCKER/Install on Ubuntu.md",
+    "DOCKER/Useful.md",
+    "DOCKER/Copy image between servers.md",
+    "DOCKER/Commands.md"
   ]
 }

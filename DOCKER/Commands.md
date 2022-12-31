@@ -43,6 +43,7 @@ A flag with one dash is a shortcut for the full flag name.
 `docker container run my_image` — Create a new container and start it
 `docker container inspect my_container` — See lots of info about a container
 `docker container logs my_container` — Print a container’s logs
+`docker container logs --follow my_container` — Print live a container’s logs
 
 `docker image history my_image` — Display an image’s intermediate images with sizes and how they were created
 `docker image inspect my_image` — Show lots of details about your image
