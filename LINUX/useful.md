@@ -4,6 +4,8 @@
 `ls $HOME | wc -l` - quantity of files in home directory
 
 `df -h` - partitions info
+`du /var -sh` -  size of a directory
+`tree /var --du -h` - tree with size of a directory
 
 `top -d1` - info about processes running
 `ps` - list of running processes
