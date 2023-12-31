@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "POSTGRESQL/Install.md",
+                "file": "LINUX/Useful.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "POSTGRESQL/Install.md",
+                "file": "LINUX/Useful.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -93,6 +93,16 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "eec1e288e547eeb2",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
               }
             }
           }
@@ -113,16 +123,17 @@
   },
   "active": "9ef202d1b0a1a411",
   "lastOpenFiles": [
+    "LINUX/Update JDK.md",
+    "LINUX/Useful.md",
+    "POSTGRESQL/Install.md",
     "POSTGRESQL/Useful.md",
     "POSTGRESQL/Config.md",
     "POSTGRESQL/useful.md",
     "POSTGRESQL/Tools.md",
     "POSTGRESQL/Core.md",
-    "LINUX/useful.md",
     "POSTGRESQL/Backup Restore.md",
     "POSTGRESQL/uninstall.md",
     "POSTGRESQL/Psql.md",
-    "LINUX/Update JDK.md",
     "LINUX/TimeZone.md",
     "LINUX/Bash.md",
     "LINUX/command.md",
