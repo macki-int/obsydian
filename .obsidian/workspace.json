@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LINUX/Useful.md",
+                "file": "Angular/RxJS.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LINUX/Useful.md",
+                "file": "Angular/RxJS.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -123,8 +125,14 @@
   },
   "active": "9ef202d1b0a1a411",
   "lastOpenFiles": [
-    "LINUX/Update JDK.md",
+    "JAVA/Java Core/Convert/Double String.md",
+    "Angular/RxJS.md",
+    "DOCKER/Commands.md",
+    "Angular/Basics.md",
+    "Angular/RxJS/Untitled.md",
+    "Angular/RxJS",
     "LINUX/Useful.md",
+    "LINUX/Update JDK.md",
     "POSTGRESQL/Install.md",
     "POSTGRESQL/Useful.md",
     "POSTGRESQL/Config.md",
@@ -143,11 +151,6 @@
     "GIT/Command.md",
     "POWERSHELL/Aliases.md",
     "JENKINS/Raspberry Pi.md",
-    "GIT/Remove last commit.md",
-    "GIT/Get The Current Branch.md",
-    "DOCKER/Install on Ubuntu.md",
-    "DOCKER/Useful.md",
-    "DOCKER/Copy image between servers.md",
-    "DOCKER/Commands.md"
+    "GIT/Remove last commit.md"
   ]
 }
