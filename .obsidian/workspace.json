@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Angular/RxJS.md",
+                "file": "POSTGRESQL/Backup Restore.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Angular/RxJS.md",
+                "file": "POSTGRESQL/Backup Restore.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -125,8 +125,10 @@
   },
   "active": "9ef202d1b0a1a411",
   "lastOpenFiles": [
-    "JAVA/Java Core/Convert/Double String.md",
+    "POSTGRESQL/Psql.md",
+    "MAVEN/Build project.md",
     "Angular/RxJS.md",
+    "JAVA/Java Core/Convert/Double String.md",
     "DOCKER/Commands.md",
     "Angular/Basics.md",
     "Angular/RxJS/Untitled.md",
@@ -141,7 +143,6 @@
     "POSTGRESQL/Core.md",
     "POSTGRESQL/Backup Restore.md",
     "POSTGRESQL/uninstall.md",
-    "POSTGRESQL/Psql.md",
     "LINUX/TimeZone.md",
     "LINUX/Bash.md",
     "LINUX/command.md",
@@ -150,7 +151,6 @@
     "POWERSHELL/Install new version.md",
     "GIT/Command.md",
     "POWERSHELL/Aliases.md",
-    "JENKINS/Raspberry Pi.md",
-    "GIT/Remove last commit.md"
+    "JENKINS/Raspberry Pi.md"
   ]
 }

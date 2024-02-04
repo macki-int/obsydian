@@ -24,10 +24,11 @@ Back up or restore the TeamWorks database from the command line
 
 Restore
 `psql -U username -d database_name -f objects.sql`
+`psql -U postgres -d wims -f wims.sql`
 
 Backup all databases
 `pg_dumpall -U postgres > c:\\pgbackup\\all.sql`
-
+`pg_dump -U postgres -d wims -f wims.sql`
 
 
 https://www.postgresqltutorial.com/

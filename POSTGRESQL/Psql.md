@@ -7,6 +7,13 @@ for database : `\l`
 for relation : `\d`
 for table : `\dt` or `\dt+`
 
+```sql
+alter role name superuser
+```
+```sql
+CREATE ROLE group_role_name;
+GRANT group_role to user_role;
+```
 
 ```sql
 \c demo_datavase user_name
