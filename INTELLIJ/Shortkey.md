@@ -33,3 +33,5 @@ Ctrl+Shift+Up - move statement up
 Ctrl+Shift+Down - move statement down
 Ctrl+/ - comment line
 Ctrl+Shift+/ - comment block
+
+Ctrl+Shifr+U - change Uppercase/Lowercase
