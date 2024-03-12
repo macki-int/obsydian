@@ -36,6 +36,9 @@
 `sudo shutdown -h +10 "scheduled maintainance"` - shutdown system in ten minutes
 `shutdown -r` or `reboot` - restart system
 
+`ps -eo pid,comm,etime`
+`ps -eo pid,comm,etime | grep "process_name"`
+
 -   **-r** – Reboots the system
 -   **-h** – Halts the system
 -   **-k** – Kidding: don’t realy shutdown the system but it broadcasts the warning message to all the users that the system is to going down.

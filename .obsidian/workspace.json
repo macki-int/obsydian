@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JAVASCRIPT/Basics.md",
+                "file": "LINUX/Useful.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JAVASCRIPT/Basics.md",
+                "file": "LINUX/Useful.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -125,8 +125,11 @@
   },
   "active": "9ef202d1b0a1a411",
   "lastOpenFiles": [
-    "TYPESCRIPT/Basics.md",
+    "LINUX/Crone.md",
+    "LINUX/Command.md",
+    "LINUX/Bash.md",
     "JAVASCRIPT/Basics.md",
+    "TYPESCRIPT/Basics.md",
     "INTELLIJ/Shortkey.md",
     "JAVASCRIPT",
     "TYPESCRIPT",
@@ -151,9 +154,6 @@
     "LINUX/Useful.md",
     "LINUX/Update JDK.md",
     "POSTGRESQL/Install.md",
-    "POSTGRESQL/Useful.md",
-    "POSTGRESQL/Config.md",
-    "POSTGRESQL/useful.md",
-    "POSTGRESQL/Tools.md"
+    "POSTGRESQL/Useful.md"
   ]
 }
