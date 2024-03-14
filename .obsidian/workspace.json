@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LINUX/Useful.md",
+                "file": "LINUX/Bash.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LINUX/Useful.md",
+                "file": "LINUX/Bash.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -125,9 +125,11 @@
   },
   "active": "9ef202d1b0a1a411",
   "lastOpenFiles": [
+    "GIT/Useful.md",
+    "LINUX/Bash.md",
+    "POSTGRESQL/Backup Restore.md",
     "LINUX/Crone.md",
     "LINUX/Command.md",
-    "LINUX/Bash.md",
     "JAVASCRIPT/Basics.md",
     "TYPESCRIPT/Basics.md",
     "INTELLIJ/Shortkey.md",
@@ -139,12 +141,10 @@
     "Angular/Hooks.md",
     "Angular/RxJS.md",
     "Angular/Basics.md",
-    "GIT/Useful.md",
     "GIT/Command.md",
     "GIT/Get The Current Branch.md",
     "GIT/Remove last commit.md",
     "DOCKER/Useful.md",
-    "POSTGRESQL/Backup Restore.md",
     "POSTGRESQL/Psql.md",
     "MAVEN/Build project.md",
     "JAVA/Java Core/Convert/Double String.md",
