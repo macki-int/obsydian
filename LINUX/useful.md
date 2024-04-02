@@ -77,4 +77,6 @@
 -   **string** – string is used to text that’s embedded in a binary file.
 -   **od** – View the data in octal
 
-`column -tns: /etc/passwd` - goodlooking password file 
+`column -tns: /etc/passwd` - good-looking password file 
+
+**history -c** - clear history

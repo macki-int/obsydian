@@ -42,6 +42,18 @@ systemctl status 'postgresql*'
 
 ss -nlt | grep 5432
 
+```sql
+sudo find /tmp/ -name .s.PGSQL.5432
+
+/tmp/.s.PGSQL.5432
+
+psql -h /tmp/ dbname
+
+pg_hba.conf
+
+find /var/run/ | grep postgres
+```
+
 https://linuxpolska.pl/blog/jak-zabezpieczyc-baze-postgresql-przed-dostepem-z-zewnatrz/
 
 https://www.ibm.com/docs/en/urbancode-deploy/7.1.2?topic=SS4GSP_7.1.2/com.ibm.edt.doc/topics/install_database_postgresql_bds.html
