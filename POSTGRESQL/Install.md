@@ -49,3 +49,7 @@ psql --version
 ```sql
 SELECT version();
 ```
+
+
+https://www.commandprompt.com/education/how-to-install-and-setup-postgresql-on-debian-12/
+https://docs.percona.com/postgresql/16/major-upgrade.html

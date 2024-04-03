@@ -42,7 +42,8 @@ systemctl status 'postgresql*'
 
 ss -nlt | grep 5432
 
-```sql
+ps -ef | grep postgres
+
 sudo find /tmp/ -name .s.PGSQL.5432
 
 /tmp/.s.PGSQL.5432

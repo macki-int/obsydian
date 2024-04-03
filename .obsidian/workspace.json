@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LINUX/Bash.md",
+                "file": "LINUX/Useful.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LINUX/Bash.md",
+                "file": "LINUX/Useful.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -125,20 +125,23 @@
   },
   "active": "9ef202d1b0a1a411",
   "lastOpenFiles": [
+    "SWAGGER/Useful.md",
+    "POWERSHELL/Useful.md",
+    "SWAGGER",
     "POSTGRESQL/Useful.md",
     "POSTGRESQL/uninstall.md",
-    "POSTGRESQL/Install.md",
-    "POSTGRESQL/Psql.md",
     "POSTGRESQL/Tools.md",
-    "POSTGRESQL/Config.md",
+    "POSTGRESQL/Psql.md",
+    "POSTGRESQL/Install.md",
     "POSTGRESQL/Core.md",
+    "POSTGRESQL/Backup Restore.md",
+    "POSTGRESQL/Config.md",
+    "LINUX/Bash.md",
     "GIT/Command.md",
     "GIT/Useful.md",
     "GIT/Remove last commit.md",
     "GIT/Get The Current Branch.md",
     "LINUX/Useful.md",
-    "LINUX/Bash.md",
-    "POSTGRESQL/Backup Restore.md",
     "LINUX/Crone.md",
     "LINUX/Command.md",
     "JAVASCRIPT/Basics.md",
@@ -152,15 +155,6 @@
     "Angular/Hooks.md",
     "Angular/RxJS.md",
     "Angular/Basics.md",
-    "DOCKER/Useful.md",
-    "GIT/Command.md",
-    "GIT/Get The Current Branch.md",
-    "GIT/Remove last commit.md",
-    "DOCKER/Useful.md",
-    "POSTGRESQL/Psql.md",
-    "MAVEN/Build project.md",
     "Angular/RxJS"
   ]
 }
-
-

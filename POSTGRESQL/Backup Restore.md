@@ -61,7 +61,10 @@ Restore
 `psql -U username -d database_name -f objects.sql`
 `psql -U postgres -d wims -f wims.sql`
 
-Backup all databases
+Backup all databases (*as postgres user*) 
+*ssh vaio@192.168.0.60*
+*scp xxxx.sql xxxx@ip.ip.ip.ip:/home/xxxx/xxxx.sql*
+
 `pg_dumpall -U postgres > c:\\pgbackup\\all.sql`
 `pg_dump -U postgres -d wims -f wims.sql`
 

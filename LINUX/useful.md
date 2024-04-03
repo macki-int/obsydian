@@ -80,3 +80,27 @@
 `column -tns: /etc/passwd` - good-looking password file 
 
 **history -c** - clear history
+
+
+*nohup java -jar jarname.jar &* - run app in background
+
+**make a Java application run permanently**
+1. sudo nano /etc/systemd/system/new_app.service
+```
+[Unit]  
+Description=Name Java Application  
+After=network.target  
+  
+[Service]  
+ExecStart=/usr/bin/java -jar /path/to/new_app.jar  
+WorkingDirectory=/path/to/new_app  
+Restart=always  
+RestartSec=30
+User=username  
+  
+[Install]  
+WantedBy=multi-user.target
+```
+2. sudo systemctl daemon-reload
+3. sudo systemctl start new_app
+4. sudo systemctl enable new_app

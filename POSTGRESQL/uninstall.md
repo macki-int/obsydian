@@ -9,6 +9,4 @@ sudo rm -rf /etc/postgresql
 sudo rm -rf /var/lib/postgresql
 sudo find / -iname "*postgres*" -exec rm -rf {} \;
 
-|     |     |
-| --- | --- |
-|     |     |
+https://www.squash.io/step-by-step-process-to-uninstall-postgresql-on-ubuntu/
