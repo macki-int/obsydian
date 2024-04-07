@@ -104,3 +104,7 @@ WantedBy=multi-user.target
 2. sudo systemctl daemon-reload
 3. sudo systemctl start new_app
 4. sudo systemctl enable new_app
+
+```
+journalctl -u service-name.service -b
+```

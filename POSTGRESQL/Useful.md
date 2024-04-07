@@ -26,3 +26,13 @@ To change/modify the database owner, users must follow the below syntax:
 ALTER DATABASE db_name
 OWNER TO new_owner_name;
 ```
+
+
+upload new version of db:
+stop wims service
+rename wims db
+create wims db with owner
+as postgres user restor db from sql file
+start wims service
+
+

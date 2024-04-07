@@ -25,6 +25,11 @@ AND schemaname != 'information_schema';
 ```sql
 SELECT setval('payments_id_seq', 21, true); - next value will 22
 ```
+```sql
+ALTER DATABASE name_db RENAME TO new_name_db;
+CREATE DATABASE name_db OWNER rolename;
+```
+
 Option
 
 Description
