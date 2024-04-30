@@ -70,3 +70,6 @@ Backup all databases (*as postgres user*)
 
 
 https://www.postgresqltutorial.com/
+
+download backup file from remote server:
+*scp xxxx@ip.ip.ip.ip:<remote file> <local file>*

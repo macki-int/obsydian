@@ -125,11 +125,13 @@
   },
   "active": "63e11db98aa839fc",
   "lastOpenFiles": [
+    "POSTGRESQL/Useful.md",
+    "LINUX/Remove kdevtmpfsi.md",
     "LINUX/Crone.md",
     "LINUX/command.md",
     "LINUX/Bash.md",
+    "LINUX/useful.md",
     "POSTGRESQL/Backup Restore.md",
-    "POSTGRESQL/Useful.md",
     "POSTGRESQL/Psql.md",
     "POSTGRESQL/Tools.md",
     "POSTGRESQL/uninstall.md",
@@ -153,8 +155,6 @@
     "Angular/Untitled",
     "iPAD/App.md",
     "Angular/Signals.md",
-    "Angular/Hooks.md",
-    "Angular/RxJS.md",
     "Angular/RxJS"
   ]
 }
