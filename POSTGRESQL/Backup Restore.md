@@ -11,7 +11,7 @@ gzip dbname.$(date.%F).tar
 rm -f dbname.$(date.%F).dat.sql
 ```
 ```
-crontab -e
+crontab -e -u postgres
 
 # It will take the backup always at 01 AM
 # PostgreSQL backup
@@ -70,3 +70,6 @@ Backup all databases (*as postgres user*)
 
 
 https://www.postgresqltutorial.com/
+
+download backup file from remote server:
+*scp xxxx@ip.ip.ip.ip:<remote file> <local file>*
