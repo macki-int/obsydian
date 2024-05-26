@@ -108,3 +108,6 @@ WantedBy=multi-user.target
 ```
 journalctl -u service-name.service -b
 ```
+Check port number for ssh: ```
+sudo netstat --tcp --numeric-ports --listening --program | grep sshd
+```
