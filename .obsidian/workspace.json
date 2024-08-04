@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "POSTGRESQL/Useful.md",
+                "file": "POWERSHELL/Useful.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "POSTGRESQL/Useful.md",
+                "file": "POWERSHELL/Useful.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -125,13 +125,15 @@
   },
   "active": "63e11db98aa839fc",
   "lastOpenFiles": [
+    "Windows tips.md",
     "POSTGRESQL/Backup Restore.md",
+    "POSTGRESQL/Install.md",
+    "LINUX/Crone.md",
+    "POSTGRESQL/Useful.md",
     "POSTGRESQL/Grant access to users.md",
     "POSTGRESQL/Psql.md",
-    "POSTGRESQL/Install.md",
     "POSTGRESQL/Config.md",
     "POSTGRESQL/Core.md",
-    "POSTGRESQL/Useful.md",
     "App.md",
     "POSTGRESQL/Tools.md",
     "LINUX/Useful.md",
@@ -149,8 +151,6 @@
     "JAVA/CRUD/Example.md",
     "JAVA/Java Core/Optional.md",
     "JAVA/Java Core/Keywords.md",
-    "JAVA/Java Core/Files Dirs.md",
-    "JAVA/DATA STRUCTURES/Untitled.md",
     "SWAGGER",
     "JAVASCRIPT",
     "TYPESCRIPT",
