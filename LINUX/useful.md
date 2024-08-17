@@ -39,6 +39,10 @@
 `ps -eo pid,comm,etime`
 `ps -eo pid,comm,etime | grep "process_name"`
 
+`cat /etc/passwd` list of all users
+`groups <username>` check user group privileges
+`id <username>` check user group privilages
+
 -   **-r** – Reboots the system
 -   **-h** – Halts the system
 -   **-k** – Kidding: don’t realy shutdown the system but it broadcasts the warning message to all the users that the system is to going down.
