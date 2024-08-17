@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "78580bdf2e6cb18a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LINUX/install HP.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "POWERSHELL/Useful.md",
+                "file": "LINUX/install HP.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -123,8 +136,15 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "63e11db98aa839fc",
+  "active": "78580bdf2e6cb18a",
   "lastOpenFiles": [
+    "LINUX/Useful.md",
+    "LINUX/install HP.md",
+    "Angular/Useful.md",
+    "Angular/Signals.md",
+    "Angular/RxJS.md",
+    "Angular/Hooks.md",
+    "Angular/Basics.md",
     "Windows tips.md",
     "POSTGRESQL/Backup Restore.md",
     "POSTGRESQL/Install.md",
@@ -136,7 +156,6 @@
     "POSTGRESQL/Core.md",
     "App.md",
     "POSTGRESQL/Tools.md",
-    "LINUX/Useful.md",
     "POSTGRESQL/uninstall.md",
     "LINUX/Remove kdevtmpfsi.md",
     "LINUX/Command.md",
@@ -145,12 +164,6 @@
     "SPRING/TEST/Untitled.md",
     "JAVA/Useful.md",
     "SPRING/Annotations.md",
-    "SPRING/unclassifited.md",
-    "README.md",
-    "JAVA/SSL.md",
-    "JAVA/CRUD/Example.md",
-    "JAVA/Java Core/Optional.md",
-    "JAVA/Java Core/Keywords.md",
     "SWAGGER",
     "JAVASCRIPT",
     "TYPESCRIPT",
