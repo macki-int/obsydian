@@ -1,0 +1,3 @@
+
+*npx show projects --verbose*
+
