@@ -16,7 +16,9 @@
                 "file": "POWERSHELL/Useful.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Useful"
             }
           },
           {
@@ -28,7 +30,9 @@
                 "file": "LINUX/install HP.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "install HP"
             }
           }
         ],
@@ -52,7 +56,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -67,7 +73,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -75,7 +83,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -106,7 +116,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for install HP"
             }
           },
           {
@@ -118,7 +130,9 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              }
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           }
         ]
@@ -138,14 +152,15 @@
   },
   "active": "78580bdf2e6cb18a",
   "lastOpenFiles": [
-    "LINUX/Useful.md",
+    "LINUX/Install wlan.md",
     "LINUX/install HP.md",
+    "LINUX/Useful.md",
+    "Windows tips.md",
     "Angular/Useful.md",
     "Angular/Signals.md",
     "Angular/RxJS.md",
     "Angular/Hooks.md",
     "Angular/Basics.md",
-    "Windows tips.md",
     "POSTGRESQL/Backup Restore.md",
     "POSTGRESQL/Install.md",
     "LINUX/Crone.md",
@@ -163,7 +178,6 @@
     "MAVEN/Build project.md",
     "SPRING/TEST/Untitled.md",
     "JAVA/Useful.md",
-    "SPRING/Annotations.md",
     "SWAGGER",
     "JAVASCRIPT",
     "TYPESCRIPT",
