@@ -8,21 +8,21 @@
         "type": "tabs",
         "children": [
           {
-            "id": "63e11db98aa839fc",
+            "id": "78580bdf2e6cb18a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "POWERSHELL/Useful.md",
+                "file": "LINUX/Command.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Useful"
+              "title": "Command"
             }
           },
           {
-            "id": "78580bdf2e6cb18a",
+            "id": "2f218c0339de09c5",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -150,10 +150,13 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "78580bdf2e6cb18a",
+  "active": "2f218c0339de09c5",
   "lastOpenFiles": [
-    "LINUX/Install wlan.md",
+    "LINUX/Pasted image 20241020192305.png",
+    "LINUX/Command.md",
+    "POWERSHELL/Useful.md",
     "LINUX/install HP.md",
+    "LINUX/Install wlan.md",
     "LINUX/Useful.md",
     "Windows tips.md",
     "Angular/Useful.md",
@@ -173,11 +176,8 @@
     "POSTGRESQL/Tools.md",
     "POSTGRESQL/uninstall.md",
     "LINUX/Remove kdevtmpfsi.md",
-    "LINUX/Command.md",
     "LINUX/Bash.md",
     "MAVEN/Build project.md",
-    "SPRING/TEST/Untitled.md",
-    "JAVA/Useful.md",
     "SWAGGER",
     "JAVASCRIPT",
     "TYPESCRIPT",

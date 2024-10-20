@@ -35,6 +35,7 @@ sudo pkill -u username - logout user
 neofetch - show system info
 df -h  system disk info
 
+**lsusb** - shows usb devices
   
 **find -name "file_name"** -maxdepth 1 - finding file in the folder
 **find -name "*part_of_file_name*"** -maxdepth 1 - finding file in the folder
