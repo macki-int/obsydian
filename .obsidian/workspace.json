@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "install HP"
             }
+          },
+          {
+            "id": "b5c42e0cd853a106",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LINUX/Useful.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Useful"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -55,7 +69,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -108,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LINUX/install HP.md",
+                "file": "LINUX/Useful.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -118,7 +133,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for install HP"
+              "title": "Backlinks for Useful"
             }
           },
           {
@@ -150,12 +165,13 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "2f218c0339de09c5",
+  "active": "b5c42e0cd853a106",
   "lastOpenFiles": [
+    "LINUX/ANKI.md",
+    "LINUX/install HP.md",
     "LINUX/Pasted image 20241020192305.png",
     "LINUX/Command.md",
     "POWERSHELL/Useful.md",
-    "LINUX/install HP.md",
     "LINUX/Install wlan.md",
     "LINUX/Useful.md",
     "Windows tips.md",

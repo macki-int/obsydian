@@ -34,7 +34,7 @@
 `touch newfile` - create new file
 
 `sudo shutdown -h +10 "scheduled maintainance"` - shutdown system in ten minutes
-`shutdown -r` or `reboot` - restart system
+`sudo shutdown -r` or `sudo reboot` - restart system
 
 `ps -eo pid,comm,etime`
 `ps -eo pid,comm,etime | grep "process_name"`
